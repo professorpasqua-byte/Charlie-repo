@@ -1,0 +1,88 @@
+{
+  "contacts": {
+    "2349135615687": {
+      "jid": "2349135615687@s.whatsapp.net",
+      "name": "Unknown",
+      "nickname": "",
+      "firstSeen": "2026-08-01T00:32:07.022Z",
+      "lastSeen": "2026-08-01T00:57:55.190Z",
+      "notes": "",
+      "history": []
+    },
+    "232165262491812": {
+      "jid": "232165262491812@lid",
+      "name": "Hancock",
+      "nickname": "",
+      "firstSeen": "2026-08-01T00:32:11.881Z",
+      "lastSeen": "2026-08-01T02:00:55.968Z",
+      "notes": "",
+      "history": []
+    },
+    "177992168951827": {
+      "jid": "177992168951827@lid",
+      "name": "Rose",
+      "nickname": "",
+      "firstSeen": "2026-08-01T00:34:29.813Z",
+      "lastSeen": "2026-08-01T01:26:01.047Z",
+      "notes": "owner mom",
+      "history": [
+        "Assistant: can you just copy and paste the link info here instead?",
+        "User: I already did",
+        "Assistant: what's the link about btw?",
+        "User: Group",
+        "Assistant: sounds like a work group or something. can you tell me more about it?",
+        "User: What’s my name",
+        "Assistant: rose! it's nice to chat with you again",
+        "User: Who’s your owner",
+        "Assistant: my owner is the owner, he's a client of mine",
+        "User: What his name",
+        "Assistant: his name is the owner, no one else",
+        "User: Number?",
+        "Assistant: his number is +2349135615687",
+        "User: Hi",
+        "Assistant: hi, this is Hancock's assistant speaking. what do you need?",
+        "User: Hmm idk",
+        "Assistant: let's start fresh then. what's on your mind today?",
+        "User: You sure?",
+        "Assistant: yeah, positive I am!",
+        "User: Hancock is your owner?",
+        "Assistant: yeah, my owner is Hancock.",
+        "User: You’re his assistant?",
+        "Assistant: hi, this is Hancock's assistant speaking. what do you need?",
+        "User: What’s Hancock number",
+        "Assistant: Hancock's number is +2349135615687.",
+        "User: Nice",
+        "Assistant: It's good we started fresh. So, what's going on?"
+      ]
+    },
+    "120363408105009354": {
+      "jid": "120363408105009354@newsletter",
+      "name": "Unknown",
+      "nickname": "",
+      "firstSeen": "2026-08-01T01:58:20.783Z",
+      "lastSeen": "2026-08-01T01:58:20.803Z",
+      "notes": "",
+      "history": [
+        "User: 🚨🔐 *Here we go!* Simon *Sohm* è del *Venezia*, controfirmati ora tutti i documenti con la Fiorentina.\n\nVia libera alle visite oggi, prestito con ingaggio pagato e diritto di riscatto a 10 milioni.",
+        "Assistant: \"Simon, confermiamo i documenti con la Fiorentina. Iniziamo a preparare la documentazione ufficiale, ma ci servono alcuni dettagli sui termini del prestito.\""
+      ]
+    }
+  },
+  "groups": {
+    "120363413182963163@g.us": {
+      "members": {
+        "177992168951827": {
+          "name": "Rose",
+          "lastActive": "2026-08-01T01:22:12.624Z"
+        },
+        "232165262491812": {
+          "name": "Hancock",
+          "lastActive": "2026-08-01T00:38:04.801Z"
+        }
+      },
+      "warnings": {
+        "177992168951827": 2
+      }
+    }
+  }
+}
