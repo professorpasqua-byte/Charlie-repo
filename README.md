@@ -1,3 +1,15 @@
+Before deploying you must get a free groq API key from GroqCloud
+https://console.groq.com
+API Keys - GroqCloud and a free OpenRouter API key
+https://openrouter.ai
+OpenRouter
+
+Edit the the index.js by putting the API key inside the API section in the index.js e.g "gsk_GVMYrs" for groq and "sk-or-v1-46d" for open router 
+Get the keys from the Website 
+
+
+
+
 WHATSAPP AI ASSISTANT & MODERATION BOT
 ​A POWERFUL, FEATURE-RICH WHATSAPP PERSONAL ASSISTANT AND GROUP MODERATION BOT BUILT USING NODE.JS, BAILEYS, AND TERMUX. IT ACTS AS AN AUTONOMOUS ASSISTANT—MANAGING CHATS WITH ADVANCED AI, LOGGING MEMORIES, TRANSCRIBING VOICE NOTES, PROCESSING IMAGES, AND KEEPING GROUPS CLEAN.
 ​FEATURES & CAPABILITIES
