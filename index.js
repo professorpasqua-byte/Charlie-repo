@@ -5,8 +5,9 @@ const {
     fetchLatestBaileysVersion,
     Browsers,
     downloadMediaMessage,
-    delay
+    delay,
 } = require('@whiskeysockets/baileys');
+
 const readline = require('readline-sync');
 const axios = require('axios');
 const pino = require('pino');
@@ -20,7 +21,7 @@ const GROQ_API_KEY = "";
 const OPENROUTER_API_KEY = ""; 
 
 // Ensure Download directory exists for Saved/Deleted Media & Audio
-const downloadDir = '/sdcard/Download/WA_Termux_Media';
+const downloadDir = './WA_Termux_Media';
 if (!fs.existsSync(downloadDir)) {
     fs.mkdirSync(downloadDir, { recursive: true });
 }
