@@ -58,3 +58,21 @@ DEPLOYING ON A HOSTING PANEL (PTERODACTYL / CUSTOM NODE.JS PANELS)
 NODE INDEX.JS
 4. ENSURE YOUR PANEL ENVIRONMENT SUPPORTS OR PRE-INSTALLS SYSTEM PACKAGES LIKE FFMPEG AND ESPEAK IF YOU PLAN TO USE THE VOICE NOTE GENERATION FEATURE.
 5. START THE SERVER AND CHECK THE CONSOLE LOGS FOR CONNECTION STATUS.
+
+
+
+
+
+
+After a successful deploy remember to use !wipe to clear previous memory after then use !owner clear to remove previous owner then use !owner set and your name to add your name as new owner so the assistant will tell people/customer you're it's owner 
+
+Business mode is optional you can use !business on/off depending how you want your ai to reach out to customers for regular texting purpose or business 
+!price also works together with business 
+!location also works with business 
+
+The API keys should strictly from groq for ai communication and open router for images to let the assistant see pictures 
+any other API key from another AI might fail
+
+The WhatsApp assistant script has a built in audio transcription meaning it also hears voice notes
+You can also use voice command to let the ai speak or text by using !voice on/off this is turned off by default because the communication isn't fluent but you can turn it off if you prefer voice rather than texting 
+
